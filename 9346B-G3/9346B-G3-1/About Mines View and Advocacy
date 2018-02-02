@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta charset ="UTF-8">
+	<title>Mines View Park</title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+	<div id = "menu">
+        <ul>
+          <a href="index.html">Home</a>
+          <a href="HumanRights.html">Human Rights</a>
+          <a href="Advocacy.html">Advocacy</a>
+          <a href="AboutUs.html">About Us</a>
+        </ul>
+	</div>
+	
+	<h1>About Mines View Park</h1>
+	<img id = "image1" src="minesview.jpg" width = "750" height = "250"/>
+		<p> Mines view park is one of the main attraction that makes tourists want to go back to Baguio City. 
+		It’s located in a cliff where we’ll see a nice view of Baguio City’s mountainous slope and abandoned mines.
+		From the observation deck of the park,a breathtaking panoramic view of Benguet's gold and copper mines 
+		and the surrounding mountains unfolds before you. Mines View park is also near to other tourists destination 
+		like the Mansion and Wright park. </p>
+	
+	<h2>Good Shepherd Convent</h2>
+	<h5>You don't want to miss good shepherd when in Baguio!</h5>
+	<img id = "image2" src="gshepherd.jpg" width = "auto" height= "250" />
+		<p>You will find the Good Shepherd Convent in the Mines View Barangay. 
+		The store is popularly known for the different products made by the Good Shepherd nuns and visitors coming up to the city. 
+		Good Shepherd convent is a must place to go when you're already at mines view park because of their delicious "pasalubongs".</p>
+		
+	<h1>Human Rights Advocacy in Mines View Barangay</h1>
+	<h3>No to death penalty!</h3>
+	<img id = "image3" src="notodeath.jpg" width = "auto" height= "250" />
+		<p>As we wander at Mines view park, we saw a lot of tarpaulins and posters that promotes human rights and one of them is 
+		"No to death penalty, yes to life!". The program is being supported by the mines view barangay to promote fair justice. We all 
+		do not want risking innocent people being excuted for the crime they didn't commit. 	</p>
+	
+	<h3>Work, Work, Work, Work, Work!</h3>
+	<img id = "image4" src="labor.jpg" width = "auto" height= "150" />
+	<img id = "image5" src="labor2.jpg" width = "auto" height= "150" />
+		<p>In this part, Mines View Barangay did it right! We interviewed some of the vendors and we're happy to hear that they are
+		receiving the minimum wage of 300 pesos in baguio.</p>
+		
+	<footer>
+		<p> All images presented are originally from us. </p>
+    </footer>
+</body>
+</html>
