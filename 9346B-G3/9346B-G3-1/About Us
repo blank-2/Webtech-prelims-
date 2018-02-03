@@ -1,1 +1,72 @@
 
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta charset ="UTF-8">
+	<title>Mines View Park</title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+	<div id = "menu">
+        <ul>
+          <a href="index.html">Home</a>
+          <a href="HumanRights.html">Human Rights</a>
+          <a href="Advocacy.html">Advocacy</a>
+          <a href="about%20us.html">About Us</a>
+        </ul>
+	</div>
+	
+    <div id = "sec1">
+	<div id = "h1">
+    <h1>About Us</h1>
+    </div>
+    
+    <div id = "grouppic">
+    <img id = "image1" src="group%20picture.jpg" width = "750" height = "450"/>
+	</div>
+    
+    <div id = "h2">
+    <h2>Who are we?</h2>	
+       
+    <div id = "h2 p">
+    <p> Our team consists of students from SLU taking up BSIT. Here, we wanted to the people of Mines View to be aware of the rights
+    they have. We see that sometimes people don't really fully utilize the rights they have and we are here to change that.</p></div>
+    </div>
+    </div>
+    <div id = "sec2">
+    <div id = "h3">
+	<h2>Rights to Freedom Of Expression</h2>
+    </div>
+    <div id = "h3 p">
+    <h3>Our team believes that everyone deserves to express themselves freely. <br>Voicing out their ideas, their opinions, their 
+    talents.</h3>
+    </div>
+    </div>
+    
+    <div id = "sec3">
+    <div id = "h4">
+	<h2>Rights to Information</h2>
+	</div>
+    
+    <div id = "h4 p">
+    <h3>Our team believes that it is everyone's right to information. <br>Information that is easily accessed for everyone.<br> To 
+    know what is happening in today's society whether it be world events, big, and small.</h3>
+	</div>
+    </div>
+    
+	<div id = "sec 4">
+    <div id = "h5">
+    <h2>Right to Belong</h2>
+	</div>
+    <div id = "h5 p">   
+    <h3>Our team believes in the saying "no man is an island" and it is your right to belong to a community and you have the right to
+     cooperate with the community whatever condition you are in.</h3>
+    </div>
+    </div>
+    
+	<footer>
+		<p> All images presented are originally from us. </p>
+    </footer>
+</body>
+</html>
