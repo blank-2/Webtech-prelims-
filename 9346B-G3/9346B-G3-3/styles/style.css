@@ -1,0 +1,106 @@
+@font-face {
+    font-family: bebasneue;
+    src: url('font/BebasNeue.otf');
+}
+
+body {
+    margin: 0;
+    background-image: url("images/bodybackground.png");
+    background-size: 100% 100%;
+    font-family: sans-serif;
+}
+
+#home_header {
+    background-image: url("images/logo.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 100% 67%;
+    height: 150px;
+    width: 100%;
+    position: relative;
+}
+
+#home_header img {
+    display: none;
+}
+
+#home_nav {
+    background-color: #331000;
+    display: block;
+    height: 33.5%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+
+}
+
+#home_nav_list {
+    list-style: none;
+    font-family: bebasneue;
+    text-decoration: none;
+}
+
+.home_list {
+    display: inline;
+    padding-right: 40px;
+}
+
+#home_nav_list a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+#home_head {
+    text-align: center;
+    color: white;
+    font-size: 75px;
+}
+
+#articles_article {
+    width: 70%;
+    border-left: inset;
+    border-right: outset;
+    border-width: 2px;
+    margin: auto;
+    padding: 20px 50px;
+    background: white;
+}
+
+#gallery_section {
+    width: 70%;
+    border-left: inset;
+    border-right: outset;
+    border-width: 2px;
+    margin: auto;
+    padding: 20px 50px;
+    background: white;
+}
+
+#gallery_section img {
+    width: 500px; 
+    height: 500px;
+}
+
+#aboutUs_article {
+    width: 70%;
+    border-left: inset;
+    border-right: outset;
+    border-width: 2px;
+    margin: auto;
+    padding: 20px 50px;
+    background: white;
+}
+
+#aboutUs_article img {
+    width: 100%;
+}
+
+footer, footer  {
+    background-color: #331000;
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    margin: auto;
+
+}
